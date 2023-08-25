@@ -2,26 +2,10 @@
 
 ## [Unreleased][unreleased]
 
-## [1.1.1][] - 2023-08-23
 
-- Astrohelm config update
-- Packages update
+## [0.0.1][] - 2023-08-25
 
-## [1.1.0][] - 2023-08-02
+- Repository initialization
 
-- Prettier row length 120 -> 100
-- Makefile git commands
-- Grep command
-- Replace command
-- Search between files command
-- Search between rows command
-
-## [1.0.0][] - 2023-07-31
-
-- Stable release version
-- Repository created
-
-[unreleased]: https://github.com/astrohelm/workspace/compare/v1.1.1...HEAD
-[1.1.1]: https://github.com/astrohelm/workspace/compare/v1.1.0...v1.1.1
-[1.1.0]: https://github.com/astrohelm/workspace/compare/release...v1.1.0
-[1.0.0]: https://github.com/astrohelm/workspace/releases/tag/release
+[unreleased]: https://github.com/astrohelm/astrocore/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/astrohelm/astrocore/releases/tag/v0.0.1
