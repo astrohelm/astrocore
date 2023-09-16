@@ -15,11 +15,7 @@
     "node": "18 || 19 || 20"
   },
   "browser": {},
-  "files": [
-    "/dist",
-    "/lib",
-    "/types"
-  ],
+  "files": ["/dist", "/lib", "/types"],
   "scripts": {
     "test": "node --test",
     "dev": "node index.js",
@@ -35,18 +31,18 @@
     "email": "sashapop101@gmail.com"
   },
   "devDependencies": {
-    "@types/node": "^20.5.3",
-    "eslint": "^8.40.0",
+    "@types/node": "^20.6.0",
+    "eslint": "^8.49.0",
     "eslint-config-astrohelm": "^1.1.1",
     "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-prettier": "^5.0.0",
-    "prettier": "^3.0.2",
-    "typescript": "^5.0.2"
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
   },
   "dependencies": {
     "astroctx": "^1.0.0",
-    "astropack": "^0.2.0",
+    "astropack": "^0.3.0",
     "astrowatch": "^1.0.0"
   }
 }
